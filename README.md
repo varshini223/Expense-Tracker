@@ -1,7 +1,7 @@
-📌 Expense Tracker
+ Expense Tracker
 A simple Expense Tracker application to help users track their income and expenses efficiently.
 
-🚀 Features
+ Features
 Add, edit, and delete expenses and income
 Categorize transactions (e.g., Food, Rent, Travel, etc.)
 View expense history with timestamps
